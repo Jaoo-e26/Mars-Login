@@ -1,23 +1,25 @@
-Mars Login Page
+🚀 Mars Login Page
+
+
+
+
 
 A modern and visually engaging login interface inspired by a futuristic Mars theme.
 This project focuses on clean UI design, smooth gradients, and a balanced split layout to create an elegant authentication experience.
 
 📸 Preview
 
-The layout features:
+The layout includes:
 
-🌑 A stylized Mars-inspired planet with depth and shading
+🪐 Custom Mars-style planet created with pure CSS
 
-🎨 Soft gradient backgrounds
+🎨 Smooth gradient background
 
 🧭 Split-screen modern layout
 
-🔐 Minimal and clean login form
+🔐 Minimal login form with floating labels
 
-✨ Smooth label animations
-
-📱 Responsive design
+📱 Fully responsive design
 
 🛠️ Technologies Used
 
@@ -29,41 +31,53 @@ Flexbox
 
 CSS Gradients
 
-Pseudo-elements (::before / ::after)
+CSS Pseudo-elements
+
+📂 Project Structure
+mars-login/
+│
+├── index.html
+└── style.css
 
 🎯 Features
 
-Fully responsive layout
+Clean and organized code
 
-Floating label inputs
+Pure CSS illustration (no images)
 
-Modern UI/UX design
+Modern UI design
 
-Organized and clean code structure
+Responsive layout
 
-Custom CSS planet illustration (no images used)
+Smooth hover effects
 
-💡 Purpose
+🚀 Getting Started
+
+To run this project locally:
+
+git clone https://github.com/your-username/mars-login.git
+
+
+Then open:
+
+index.html
+
+
+No dependencies required.
+
+💡 Learning Goals
 
 This project was built to practice:
 
-Advanced CSS styling
+Advanced CSS layout techniques
 
-Layout structuring with Flexbox
+UI replication from a design reference
 
-Visual design replication
+Visual balance and spacing
 
-Creating custom illustrations using pure CSS
-
-🚀 How to Run
-
-Clone the repository
-
-Open index.html in your browser
-
-No dependencies required.
+Component styling using modern CSS
 
 👨‍💻 Author
 
 Developed by João Emanuel
-Front-end Developer in progress 🚀
+Front-end Developer 🚀
