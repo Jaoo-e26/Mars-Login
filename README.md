@@ -2,10 +2,9 @@
 
 
 
-
-
 A modern and visually engaging login interface inspired by a futuristic Mars theme.
 This project focuses on clean UI design, smooth gradients, and a balanced split layout to create an elegant authentication experience.
+
 
 📸 Preview
 
@@ -20,6 +19,7 @@ The layout includes:
 🔐 Minimal login form with floating labels
 
 📱 Fully responsive design
+
 
 🛠️ Technologies Used
 
@@ -39,6 +39,7 @@ mars-login/
 ├── index.html
 └── style.css
 
+
 🎯 Features
 
 Clean and organized code
@@ -50,6 +51,7 @@ Modern UI design
 Responsive layout
 
 Smooth hover effects
+
 
 🚀 Getting Started
 
@@ -64,6 +66,7 @@ index.html
 
 
 No dependencies required.
+
 
 💡 Learning Goals
 
